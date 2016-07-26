@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccessibilityAssistantBot", "AccessibilityAssistantBot\AccessibilityAssistantBot.csproj", "{82E439F7-6CD7-4E87-BD54-844A01915304}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Definitions", "Definitions\Definitions.csproj", "{51FFCA07-1E77-400E-A079-5D2DF77B39E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{82E439F7-6CD7-4E87-BD54-844A01915304}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82E439F7-6CD7-4E87-BD54-844A01915304}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82E439F7-6CD7-4E87-BD54-844A01915304}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82E439F7-6CD7-4E87-BD54-844A01915304}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51FFCA07-1E77-400E-A079-5D2DF77B39E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51FFCA07-1E77-400E-A079-5D2DF77B39E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51FFCA07-1E77-400E-A079-5D2DF77B39E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51FFCA07-1E77-400E-A079-5D2DF77B39E7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
